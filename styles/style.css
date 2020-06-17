@@ -64,10 +64,6 @@
 .pad{
 	padding: 0px 0 0 35px;
 }
-.rotate{
-	transform: rotate(180deg);
-	padding-left: 10px;
-}
-.rotate1{
-	padding-left: 10px;
+.sizeleft{
+	text-align: center;
 }
