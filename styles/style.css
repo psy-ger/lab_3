@@ -66,4 +66,8 @@
 }
 .rotate{
 	transform: rotate(180deg);
+	padding-left: 10px;
+}
+.rotate1{
+	padding-left: 10px;
 }
